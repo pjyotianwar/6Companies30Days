@@ -1,0 +1,2 @@
+// Longest Happy Prefix
+
